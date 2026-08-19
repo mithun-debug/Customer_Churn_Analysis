@@ -254,8 +254,9 @@ Integrate churn prediction into customer relationship management systems to iden
 Telecom-Customer-Churn-Analysis/
 │
 ├── Data/
-│   └── telecom_customer_data.csv
-│
+│   └── Customer_data.csv
+│   ├── prediction_data.xlsx
+│   └── predictions.csv
 ├── SQL/
 │   ├── database_creation.sql
 │   ├── data_cleaning.sql
@@ -279,8 +280,10 @@ Telecom-Customer-Churn-Analysis/
 # 📸 Dashboard Preview
 
 ## Churn Analysis — Summary
+![Churn Analysis Summary](Screenshots/churn_analysis_summary.png)
 
 ## Churn Analysis — Prediction
+![Churn Analysis Prediction](Screenshots/churn_analysis_prediction.png)
 
 > **Tip:** Upload your two dashboard screenshots into a `Screenshots` folder in your GitHub repository and use the filenames above, or replace the paths with your actual filenames.
 
@@ -371,9 +374,5 @@ Aspiring **Data Analyst | Business Analyst**
 `SQL` `Power BI` `DAX` `Python` `Pandas` `Excel` `Data Analytics` `Machine Learning`
 
 ---
-
-## ⭐ If you found this project useful
-
-Feel free to explore the repository and connect with me on LinkedIn.
 
 **#DataAnalytics #DataAnalyst #PowerBI #SQL #Python #MachineLearning #CustomerChurn #BusinessAnalytics**
