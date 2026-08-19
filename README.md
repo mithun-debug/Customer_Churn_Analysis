@@ -280,10 +280,10 @@ Telecom-Customer-Churn-Analysis/
 # 📸 Dashboard Preview
 
 ## Churn Analysis — Summary
-![Churn Analysis Summary](Screenshots/churn_analysis_summary.png)
+![Churn Analysis Summary](https://github.com/mithun-debug/Customer_Churn_Analysis/blob/main/Screenshots/Churn%20Anlysis_Dashboard.png)
 
 ## Churn Analysis — Prediction
-![Churn Analysis Prediction](Screenshots/churn_analysis_prediction.png)
+![Churn Analysis Prediction](https://github.com/mithun-debug/Customer_Churn_Analysis/blob/main/Screenshots/Prediction_Dashboard.png)
 
 > **Tip:** Upload your two dashboard screenshots into a `Screenshots` folder in your GitHub repository and use the filenames above, or replace the paths with your actual filenames.
 
