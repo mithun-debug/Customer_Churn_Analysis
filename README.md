@@ -1,6 +1,6 @@
 # 📊 Telecom Customer Churn Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 Customer churn is a major challenge for telecom companies, as retaining existing customers is often more cost-effective than acquiring new ones.
 
@@ -10,7 +10,7 @@ The project follows an **end-to-end data analytics workflow**, covering data pre
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The main objectives of this project are to:
 
@@ -23,7 +23,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool / Technology | Purpose                                             |
 | ----------------- | --------------------------------------------------- |
@@ -39,7 +39,7 @@ The main objectives of this project are to:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Telecom Data
@@ -289,7 +289,7 @@ Telecom-Customer-Churn-Analysis/
 
 ---
 
-# 📊 Key Metrics
+#  Key Metrics
 
 | Metric             | Value |
 | ------------------ | ----: |
@@ -341,7 +341,7 @@ Telecom-Customer-Churn-Analysis/
 
 ---
 
-# 🚀 Project Outcome
+#  Project Outcome
 
 This project demonstrates an end-to-end approach to solving a **customer retention problem using data analytics and machine learning**.
 
@@ -358,8 +358,6 @@ This project was completed as a **guided learning project** based on the end-to-
 The project was used to strengthen practical skills in SQL, Power BI, DAX, Python and machine learning while understanding how an end-to-end analytics project can be structured.
 
 **Reference:**
-
-All credit for the original tutorial methodology and learning material goes to PivotalStats.
 
 ---
 
